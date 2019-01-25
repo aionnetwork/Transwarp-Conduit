@@ -1,5 +1,6 @@
 
-#TWC Contracts #
+# TWC Contracts #
+
 _**DISCLAIMER:** We do not recommend using these contracts in a production environment. The code has not been fully tested or
                       audited._
 
@@ -124,4 +125,4 @@ The core functionality of the Adapter is to:
  5. In other fail cases, transaction will be reverted.
  
  - - - -
- See [TWC paper link] for more details.
+ See https://aion.network/developers/#whitepapers for more details.

@@ -1,0 +1,19 @@
+{
+  "name": "Bridge_contract_tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "signatoryTest.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bignumber.js": "^8.0.1",
+    "ganache-cli": "^6.1.0",
+    "truffle": "^4.1.11",
+    "chai": "^4.1.2",
+    "commander": "^2.15.0"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
